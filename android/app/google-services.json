@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "633890575719",
+    "project_id": "groupmoneycollection",
+    "storage_bucket": "groupmoneycollection.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:633890575719:android:d2e80c75d64bf4c7d34bc2",
+        "android_client_info": {
+          "package_name": "com.example.money_collection_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDup0VKk8m9ts34ancsne6O0JTEuTp0f8s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

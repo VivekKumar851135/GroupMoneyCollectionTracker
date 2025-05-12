@@ -1,0 +1,14 @@
+[
+    {
+        "relation": [
+            "delegate_permission/common.handle_all_urls"
+        ],
+        "target": {
+            "namespace": "money_collection_2",
+            "package_name": "com.example.money_collection_2",
+            "sha256_cert_fingerprints": [
+                    "25:D8:1C:94:DA:39:52:FC:85:03:55:D3:5A:A1:3E:B4:1A:D7:C3:F6:07:9C:81:59:D6:B9:26:21:0F:D7:DA:F2"
+            ]
+        }
+    }
+]
